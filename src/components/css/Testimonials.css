@@ -1,0 +1,151 @@
+/* Testimonials Section */
+.test-section {
+    position: relative;
+    padding: 40px 0;
+    text-align: center;
+}
+
+/* Header Styling */
+.test-header h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    background: linear-gradient(to bottom, #dc143c, #4C585B);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.test-description {
+    font-size: 1rem;
+    color: #666;
+}
+
+/* Background Image Wrapper */
+.test-bg {
+    position: relative;
+    width: 100%;
+    height: 50vh; /* Full viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url('/img/map.jpg') center/cover no-repeat;
+}
+
+/* Dark Overlay Effect */
+.test-bg::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5); /* Dark overlay */
+    backdrop-filter: blur(6px); /* Blur effect */
+    z-index: 1;
+}
+
+/* Swiper Carousel Wrapper */
+.test-carousel {
+    position: absolute;
+    width: 100%;
+    max-width: 800px;
+    z-index: 2; /* Ensure it appears above the background */
+    padding: 20px;
+}
+
+/* Testimonial Card */
+
+.test-card {
+    background: white;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    transition: transform 0.2s ease-out, box-shadow 0.2s ease-out, opacity 0.2s ease-out;
+    opacity: 0.8;
+    overflow: hidden;
+}
+
+.test-card:hover {
+    /* transform: scale(1.05); Smoothly enlarges the card */
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.3); /* Adds a deeper shadow */
+    /* opacity: 1; Fully visible on hover */
+}
+
+/* Make sure the border-radius remains respected */
+.test-card::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: inherit;
+    border-radius: inherit;
+    z-index: -1;
+}
+
+
+.test-card-inner {
+    border-radius: inherit; /* Inherits border-radius from .test-card */
+    background: inherit; /* Keeps background consistent */
+    padding: 5px;
+    transition: transform 0.4s ease-out;
+}
+
+.test-card:hover .test-card-inner {
+     color: #333;/* Darker color for emphasis */
+    /* transform: translateY(-2px);Slight lift effect */
+     transform: scale(1.2);/*  Slight inner scaling for a subtle effect */
+}
+/* 
+.test-card:hover p,
+.test-card:hover h3,
+.test-card:hover .test-role {
+    font-size: 1.1rem;/*  Increase font size slightly 
+    transform: scale(1.05); 
+    color : #333;
+} */
+
+/* Text Styling */
+.test-card p {
+    color: #333;
+    font-size: 1rem;
+}
+
+.test-card h3 {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.test-card .test-role {
+    font-size: 0.9rem;
+    color: #363636;
+}
+
+/* Swiper Pagination */
+.swiper-pagination {
+    padding-top: 3px;
+    position: relative;
+    bottom: -10px;
+}
+
+.swiper-pagination-bullet {
+    background: #fff !important;
+    opacity: 0.6;
+}
+
+.swiper-pagination-bullet-active {
+    background: #ff9800 !important;
+    opacity: 1;
+}
+
+/* Hide Swiper Navigation Arrows */
+.swiper-button-next,
+.swiper-button-prev {
+    display: none !important;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .test-carousel {
+        max-width: 90%;
+    }
+}

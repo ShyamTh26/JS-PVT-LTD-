@@ -1,0 +1,1806 @@
+/* Modal Styling - A*/
+.modal-overlay .modal-A{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content .modal-A{
+    background: white;
+    padding: 20px;
+    width: 100%;
+    max-width: 1000px;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+}
+
+.modal-content.modal-A h2 {
+    color: #5d90e3;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+/* Modal Styling - B*/
+.modal-overlay .modal-B{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content .modal-B{
+    background: white;
+    padding: 20px;
+    width: 100%;
+    max-width: 1000px;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+}
+
+.modal-content .modal-B h2 {
+    color: #1DA370 !important;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+/* Modal Styling - C*/
+.modal-overlay .modal-C{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content .modal-C{
+    background: white;
+    padding: 20px;
+    width: 100%;
+    max-width: 1000px;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+}
+
+.modal-content.modal-C h2 {
+    color: #ff9800;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+/* Modal Styling - D*/
+.modal-overlay .modal-D{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content .modal-D{
+    background: white;
+    padding: 20px;
+    width: 100%;
+    max-width: 1000px;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+}
+
+.modal-content.modal-D h2 {
+    color: #ff9800;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+/* Modal Styling - E*/
+.modal-overlay .modal-E{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content .modal-E{
+    background: white;
+    padding: 20px;
+    width: 100%;
+    max-width: 1000px;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+}
+
+.modal-content.modal-E h2 {
+    color: #531A7F;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+/* Modal Styling - F*/
+.modal-overlay .modal-F{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content .modal-F{
+    background: white;
+    padding: 20px;
+    width: 100%;
+    max-width: 1000px;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+}
+
+.modal-content.modal-F h2 {
+    color: #ff9800;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+/* Modal Styling - G*/
+.modal-overlay .modal-G{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content .modal-G{
+    background: white;
+    padding: 20px;
+    width: 100%;
+    max-width: 1000px;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+}
+
+.modal-content.modal-G h2 {
+    color: #ff9800;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+/* Modal Styling - H*/
+.modal-overlay .modal-H{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content .modal-H{
+    background: white;
+    padding: 20px;
+    width: 100%;
+    max-width: 1000px;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+}
+
+.modal-content.modal-H h2 {
+    color: #ff9800;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+/* Modal Styling - I*/
+.modal-overlay .modal-I{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content .modal-I{
+    background: white;
+    padding: 20px;
+    width: 100%;
+    max-width: 1000px;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+}
+
+.modal-content.modal-I h2 {
+    color: #ff9800;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+
+/* Modal Styling - J*/
+.modal-overlay .modal-J{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content .modal-J{
+    background: white;
+    padding: 20px;
+    width: 100%;
+    max-width: 1000px;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+}
+
+.modal-content.modal-J h2 {
+    color: #ff9800;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+
+/* Modal Styling - K*/
+.modal-overlay .modal-K{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content .modal-K{
+    background: white;
+    padding: 20px;
+    width: 100%;
+    max-width: 1000px;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+}
+
+.modal-content.modal-K h2 {
+    color: #ff9800;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+
+/* Modal Styling - L*/
+.modal-overlay .modal-L{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content .modal-L{
+    background: white;
+    padding: 20px;
+    width: 100%;
+    max-width: 1000px;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+}
+
+.modal-content.modal-L h2 {
+    color: #ff9800;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+
+/* Modal Styling - M*/
+.modal-overlay .modal-M{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content .modal-M{
+    background: white;
+    padding: 20px;
+    width: 100%;
+    max-width: 1000px;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+}
+
+.modal-content.modal-M h2 {
+    color: #ff9800;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+/* Modal Styling - N*/
+.modal-overlay .modal-N{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content .modal-N{
+    background: white;
+    padding: 20px;
+    width: 100%;
+    max-width: 1000px;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+}
+
+.modal-content.modal-N h2 {
+    color: #ff9800;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+
+.modal-img {
+    width: 120px;
+    height: auto;
+    margin: 15px 0;
+    border-radius: 8px;
+    border: 2px solid #fcfcfc;
+}
+
+.course-details {
+    text-align: left;
+    margin-top: 20px;
+    padding: 10px;
+    background: #fff3e0;
+    border-radius: 8px;
+}
+
+.course-details h3 {
+    font-size: 20px;
+    color: #d84315;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.course-details p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333;
+}
+
+.modal-content p {
+    font-size: 16px;
+    color: #444;
+    line-height: 1.6;
+    text-align: justify;
+    margin: 15px 0;
+    padding: 10px;
+    background: #f9f9f9;
+    border-left: 4px solid #ff9800;
+    border-radius: 5px;
+}
+
+
+.close-btn {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 25px;
+    cursor: pointer;
+    color: #d84315;
+    transition: 0.3s;
+}
+
+.close-btn:hover {
+    color: #ff5722;
+}
+
+.courses-title {
+    text-align: center;
+    font-weight: bold;
+    background: linear-gradient(to bottom, #dc143c, #4C585B);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+/* Individual Service Card A */
+.service-card-A {
+    width: 350px;
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    position: relative;
+    transition: transform 0.3s ease-in-out, background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+    align-items: center;
+    margin: 10px;
+}
+
+/* Hover Effect */
+.service-card-A:hover {
+    transform: scale(1.05);
+    background-color: #5d90e3 !important;
+    color: white !important;
+}
+
+/* Service Icon */
+.service-icon-A {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    transition: filter 0.3s ease-in-out;
+}
+
+/* Align images to the left */
+.main-img-A, .hover-img-A {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 0;
+    transition: opacity 0.3s ease-in-out, filter 0.3s ease-in-out;
+}
+
+.hover-img-A {
+    opacity: 0;
+}
+
+/* Hover Effect on Icons */
+.service-card-A:hover .hover-img-A {
+    opacity: 1;
+}
+
+/* Change icon color on hover */
+.service-card-A:hover .service-icon-A img {
+    filter: brightness(0) invert(1);
+}
+
+/* Serial Number Positioned Opposite to Icon */
+.serial-number-A {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 4rem;
+    font-weight: bolder;
+    color: #5d90e3;
+    transition: color 0.3s ease-in-out;
+}
+
+/* Change Serial Number color on hover */
+.service-card-A:hover .serial-number-A {
+    color: white !important;
+}
+
+/* Service Info */
+.service-info-A {
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 15px;
+    transition: color 0.3s ease-in-out;
+}
+
+/* Change text color on hover */
+.service-card-A:hover .service-info-A {
+    color: white !important;
+}
+
+/* Change Title color on hover */
+.service-title-A {
+    transition: color 0.3s ease-in-out;
+}
+
+.service-card-A:hover .service-title-A {
+    color: white !important;
+}
+
+/* Individual Service Card B */
+.service-card-B {
+    width: 350px;
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    position: relative;
+    transition: transform 0.3s ease-in-out, background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+    align-items: center;
+    margin: 10px;
+}
+
+/* Hover Effect */
+.service-card-B:hover {
+    transform: scale(1.05);
+    background-color: #1DA370 !important;
+    color: white !important;
+}
+
+/* Service Icon */
+.service-icon-B {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    transition: filter 0.3s ease-in-out;
+}
+
+/* Align images to the left */
+.main-img-B, .hover-img-B {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 0;
+    transition: opacity 0.3s ease-in-out, filter 0.3s ease-in-out;
+}
+
+.hover-img-B {
+    opacity: 0;
+}
+
+/* Hover Effect on Icons */
+.service-card-B:hover .hover-img-B {
+    opacity: 1;
+}
+
+/* Change icon color on hover */
+.service-card-B:hover .service-icon-B img {
+    filter: brightness(0) invert(1);
+}
+
+/* Serial Number Positioned Opposite to Icon */
+.serial-number-B {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 4rem;
+    font-weight: bolder;
+    color: #1DA370;
+    transition: color 0.3s ease-in-out;
+}
+
+/* Change Serial Number color on hover */
+.service-card-B:hover .serial-number-B {
+    color: white !important;
+}
+
+/* Service Info */
+.service-info-B {
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 15px;
+    transition: color 0.3s ease-in-out;
+}
+
+/* Change text color on hover */
+.service-card-B:hover .service-info-B {
+    color: white !important;
+}
+
+/* Change Title color on hover */
+.service-title-B {
+    transition: color 0.3s ease-in-out;
+}
+
+.service-card-B:hover .service-title-B {
+    color: white !important;
+}
+
+/* Individual Service Card C */
+.service-card-C {
+    width: 350px;
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    position: relative;
+    transition: transform 0.3s ease-in-out, background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+    align-items: center;
+    margin: 10px;
+}
+
+/* Hover Effect */
+.service-card-C:hover {
+    transform: scale(1.05);
+    background-color: #F5B43B !important;
+    color: white !important;
+}
+
+/* Service Icon */
+.service-icon-C {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    transition: filter 0.3s ease-in-out;
+}
+
+/* Align images to the left */
+.main-img-C, .hover-img-C {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 0;
+    transition: opacity 0.3s ease-in-out, filter 0.3s ease-in-out;
+}
+
+.hover-img-C {
+    opacity: 0;
+}
+
+/* Hover Effect on Icons */
+.service-card-C:hover .hover-img-C {
+    opacity: 1;
+}
+
+/* Change icon color on hover */
+.service-card-C:hover .service-icon-C img {
+    filter: brightness(0) invert(1);
+}
+
+/* Serial Number Positioned Opposite to Icon */
+.serial-number-C {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 4rem;
+    font-weight: bolder;
+    color: #F5B43B;
+    transition: color 0.3s ease-in-out;
+}
+
+/* Change Serial Number color on hover */
+.service-card-C:hover .serial-number-C {
+    color: white !important;
+}
+
+/* Service Info */
+.service-info-C {
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 15px;
+    transition: color 0.3s ease-in-out;
+}
+
+/* Change text color on hover */
+.service-card-C:hover .service-info-C {
+    color: white !important;
+}
+
+/* Change Title color on hover */
+.service-title-C {
+    transition: color 0.3s ease-in-out;
+}
+
+.service-card-C:hover .service-title-C {
+    color: white !important;
+}
+
+/* Individual Service Card D */
+.service-card-D {
+    width: 350px;
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    position: relative;
+    transition: transform 0.3s ease-in-out, background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+    align-items: center;
+    margin: 10px;
+}
+
+/* Hover Effect */
+.service-card-D:hover {
+    transform: scale(1.05);
+    background-color: #FF711D !important;
+    color: white !important;
+}
+
+/* Service Icon */
+.service-icon-D {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    transition: filter 0.3s ease-in-out;
+}
+
+/* Align images to the left */
+.main-img-D, .hover-img-D {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 0;
+    transition: opacity 0.3s ease-in-out, filter 0.3s ease-in-out;
+}
+
+.hover-img-D {
+    opacity: 0;
+}
+
+/* Hover Effect on Icons */
+.service-card-D:hover .hover-img-D {
+    opacity: 1;
+}
+
+/* Change icon color on hover */
+.service-card-D:hover .service-icon-D img {
+    filter: brightness(0) invert(1);
+}
+
+/* Serial Number Positioned Opposite to Icon */
+.serial-number-D {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 4rem;
+    font-weight: bolder;
+    color: #FF711D;
+    transition: color 0.3s ease-in-out;
+}
+
+/* Change Serial Number color on hover */
+.service-card-D:hover .serial-number-D {
+    color: white !important;
+}
+
+/* Service Info */
+.service-info-D {
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 15px;
+    transition: color 0.3s ease-in-out;
+}
+
+/* Change text color on hover */
+.service-card-D:hover .service-info-D {
+    color: white !important;
+}
+
+/* Change Title color on hover */
+.service-title-D {
+    transition: color 0.3s ease-in-out;
+}
+
+.service-card-D:hover .service-title-D {
+    color: white !important;
+}
+
+/* Individual Service Card E */
+.service-card-E {
+    width: 350px;
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    position: relative;
+    transition: transform 0.3s ease-in-out, background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+    align-items: center;
+    margin: 10px;
+}
+
+/* Hover Effect */
+.service-card-E:hover {
+    transform: scale(1.05);
+    background-color: #531A7F !important;
+    color: white !important;
+}
+
+/* Service Icon */
+.service-icon-E {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    transition: filter 0.3s ease-in-out;
+}
+
+/* Align images to the left */
+.main-img-E, .hover-img-E {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 0;
+    transition: opacity 0.3s ease-in-out, filter 0.3s ease-in-out;
+}
+
+.hover-img-E {
+    opacity: 0;
+}
+
+/* Hover Effect on Icons */
+.service-card-E:hover .hover-img-E {
+    opacity: 1;
+}
+
+/* Change icon color on hover */
+.service-card-E:hover .service-icon-E img {
+    filter: brightness(0) invert(1);
+}
+
+/* Serial Number Positioned Opposite to Icon */
+.serial-number-E {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 4rem;
+    font-weight: bolder;
+    color: #531A7F;
+    transition: color 0.3s ease-in-out;
+}
+
+/* Change Serial Number color on hover */
+.service-card-E:hover .serial-number-E {
+    color: white !important;
+}
+
+/* Service Info */
+.service-info-E {
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 15px;
+    transition: color 0.3s ease-in-out;
+}
+
+/* Change text color on hover */
+.service-card-E:hover .service-info-E {
+    color: white !important;
+}
+
+/* Change Title color on hover */
+.service-title-E {
+    transition: color 0.3s ease-in-out;
+}
+
+.service-card-E:hover .service-title-E {
+    color: white !important;
+}
+
+/* Individual Service Card F */
+.service-card-F {
+    width: 350px;
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    position: relative;
+    transition: transform 0.3s ease-in-out, background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+    align-items: center;
+    margin: 10px;
+}
+
+/* Hover Effect */
+.service-card-F:hover {
+    transform: scale(1.05);
+    background-color: #E966ED !important;
+    color: white !important;
+}
+
+/* Service Icon */
+.service-icon-F {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    transition: filter 0.3s ease-in-out;
+}
+
+/* Align images to the left */
+.main-img-F, .hover-img-F {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 0;
+    transition: opacity 0.3s ease-in-out, filter 0.3s ease-in-out;
+}
+
+.hover-img-F {
+    opacity: 0;
+}
+
+/* Hover Effect on Icons */
+.service-card-F:hover .hover-img-F {
+    opacity: 1;
+}
+
+/* Change icon color on hover */
+.service-card-F:hover .service-icon-F img {
+    filter: brightness(0) invert(1);
+}
+
+/* Serial Number Positioned Opposite to Icon */
+.serial-number-F {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 4rem;
+    font-weight: bolder;
+    color: #E966ED;
+    transition: color 0.3s ease-in-out;
+}
+
+/* Change Serial Number color on hover */
+.service-card-F:hover .serial-number-F {
+    color: white !important;
+}
+
+/* Service Info */
+.service-info-F {
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 15px;
+    transition: color 0.3s ease-in-out;
+}
+
+/* Change text color on hover */
+.service-card-F:hover .service-info-F {
+    color: white !important;
+}
+
+/* Change Title color on hover */
+.service-title-F {
+    transition: color 0.3s ease-in-out;
+}
+
+.service-card-F:hover .service-title-F {
+    color: white !important;
+}
+
+
+/* Individual Service Card G */
+.service-card-G {
+    width: 350px;
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    position: relative;
+    transition: transform 0.3s ease-in-out, background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+    align-items: center;
+    margin: 10px;
+}
+
+/* Hover Effect */
+.service-card-G:hover {
+    transform: scale(1.05);
+    background-color: #8F9EA7 !important;
+    color: white !important;
+}
+
+/* Service Icon */
+.service-icon-G {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    transition: filter 0.3s ease-in-out;
+}
+
+/* Align images to the left */
+.main-img-G, .hover-img-G {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 0;
+    transition: opacity 0.3s ease-in-out, filter 0.3s ease-in-out;
+}
+
+.hover-img-G {
+    opacity: 0;
+}
+
+/* Hover Effect on Icons */
+.service-card-G:hover .hover-img-G {
+    opacity: 1;
+}
+
+/* Change icon color on hover */
+.service-card-G:hover .service-icon-G img {
+    filter: brightness(0) invert(1);
+}
+
+/* Serial Number Positioned Opposite to Icon */
+.serial-number-G {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 4rem;
+    font-weight: bolder;
+    color: #8F9EA7;
+    transition: color 0.3s ease-in-out;
+}
+
+/* Change Serial Number color on hover */
+.service-card-G:hover .serial-number-G {
+    color: white !important;
+}
+
+/* Service Info */
+.service-info-G {
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 15px;
+    transition: color 0.3s ease-in-out;
+}
+
+/* Change text color on hover */
+.service-card-G:hover .service-info-G {
+    color: white !important;
+}
+
+/* Change Title color on hover */
+.service-title-G {
+    transition: color 0.3s ease-in-out;
+}
+
+.service-card-G:hover .service-title-G {
+    color: white !important;
+}
+
+/* Individual Service Card H */
+.service-card-H {
+    width: 350px;
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    position: relative;
+    transition: transform 0.3s ease-in-out, background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+    align-items: center;
+    margin: 10px;
+}
+
+/* Hover Effect */
+.service-card-H:hover {
+    transform: scale(1.05);
+    background-color: #FADA04 !important;
+    color: white !important;
+}
+
+/* Service Icon */
+.service-icon-H {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    transition: filter 0.3s ease-in-out;
+}
+
+/* Align images to the left */
+.main-img-H, .hover-img-H {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 0;
+    transition: opacity 0.3s ease-in-out, filter 0.3s ease-in-out;
+}
+
+.hover-img-H {
+    opacity: 0;
+}
+
+/* Hover Effect on Icons */
+.service-card-H:hover .hover-img-H {
+    opacity: 1;
+}
+
+/* Change icon color on hover */
+.service-card-H:hover .service-icon-H img {
+    filter: brightness(0) invert(1);
+}
+
+/* Serial Number Positioned Opposite to Icon */
+.serial-number-H {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 4rem;
+    font-weight: bolder;
+    color: #FADA04;
+    transition: color 0.3s ease-in-out;
+}
+
+/* Change Serial Number color on hover */
+.service-card-H:hover .serial-number-H {
+    color: white !important;
+}
+
+/* Service Info */
+.service-info-H {
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 15px;
+    transition: color 0.3s ease-in-out;
+}
+
+/* Change text color on hover */
+.service-card-H:hover .service-info-H {
+    color: white !important;
+}
+
+/* Change Title color on hover */
+.service-title-H {
+    transition: color 0.3s ease-in-out;
+}
+
+.service-card-H:hover .service-title-H {
+    color: white !important;
+}
+
+
+/* Individual Service Card I */
+.service-card-I {
+    width: 350px;
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    position: relative;
+    transition: transform 0.3s ease-in-out, background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+    align-items: center;
+    margin: 10px;
+}
+
+/* Hover Effect */
+.service-card-I:hover {
+    transform: scale(1.05);
+    background-color: #5B4DA0 !important;
+    color: white !important;
+}
+
+/* Service Icon */
+.service-icon-I {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    transition: filter 0.3s ease-in-out;
+}
+
+/* Align images to the left */
+.main-img-I, .hover-img-I {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 0;
+    transition: opacity 0.3s ease-in-out, filter 0.3s ease-in-out;
+}
+
+.hover-img-I {
+    opacity: 0;
+}
+
+/* Hover Effect on Icons */
+.service-card-I:hover .hover-img-I {
+    opacity: 1;
+}
+
+/* Change icon color on hover */
+.service-card-I:hover .service-icon-I img {
+    filter: brightness(0) invert(1);
+}
+
+/* Serial Number Positioned Opposite to Icon */
+.serial-number-I {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 4rem;
+    font-weight: bolder;
+    color: #5B4DA0;
+    transition: color 0.3s ease-in-out;
+}
+
+/* Change Serial Number color on hover */
+.service-card-I:hover .serial-number-I {
+    color: white !important;
+}
+
+/* Service Info */
+.service-info-I {
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 15px;
+    transition: color 0.3s ease-in-out;
+}
+
+/* Change text color on hover */
+.service-card-I:hover .service-info-I {
+    color: white !important;
+}
+
+/* Change Title color on hover */
+.service-title-I {
+    transition: color 0.3s ease-in-out;
+}
+
+.service-card-I:hover .service-title-I {
+    color: white !important;
+}
+
+/* Individual Service Card J */
+.service-card-J {
+    width: 350px;
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    position: relative;
+    transition: transform 0.3s ease-in-out, background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+    align-items: center;
+    margin: 10px;
+}
+
+/* Hover Effect */
+.service-card-J:hover {
+    transform: scale(1.05);
+    background-color: #BA2121 !important;
+    color: white !important;
+}
+
+/* Service Icon */
+.service-icon-J {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    transition: filter 0.3s ease-in-out;
+}
+
+/* Align images to the left */
+.main-img-J, .hover-img-J {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 0;
+    transition: opacity 0.3s ease-in-out, filter 0.3s ease-in-out;
+}
+
+.hover-img-J {
+    opacity: 0;
+}
+
+/* Hover Effect on Icons */
+.service-card-J:hover .hover-img-J {
+    opacity: 1;
+}
+
+/* Change icon color on hover */
+.service-card-J:hover .service-icon-J img {
+    filter: brightness(0) invert(1);
+}
+
+/* Serial Number Positioned Opposite to Icon */
+.serial-number-J {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 4rem;
+    font-weight: bolder;
+    color: #BA2121;
+    transition: color 0.3s ease-in-out;
+}
+
+/* Change Serial Number color on hover */
+.service-card-J:hover .serial-number-J {
+    color: white !important;
+}
+
+/* Service Info */
+.service-info-J {
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 15px;
+    transition: color 0.3s ease-in-out;
+}
+
+/* Change text color on hover */
+.service-card-J:hover .service-info-J {
+    color: white !important;
+}
+
+/* Change Title color on hover */
+.service-title-J {
+    transition: color 0.3s ease-in-out;
+}
+
+.service-card-J:hover .service-title-J {
+    color: white !important;
+}
+
+/* Individual Service Card K */
+.service-card-K {
+    width: 350px;
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    position: relative;
+    transition: transform 0.3s ease-in-out, background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+    align-items: center;
+    margin: 10px;
+}
+
+/* Hover Effect */
+.service-card-K:hover {
+    transform: scale(1.05);
+    background-color: #16B8C5 !important;
+    color: white !important;
+}
+
+/* Service Icon */
+.service-icon-K {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    transition: filter 0.3s ease-in-out;
+}
+
+/* Align images to the left */
+.main-img-K, .hover-img-K {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 0;
+    transition: opacity 0.3s ease-in-out, filter 0.3s ease-in-out;
+}
+
+.hover-img-K {
+    opacity: 0;
+}
+
+/* Hover Effect on Icons */
+.service-card-K:hover .hover-img-K {
+    opacity: 1;
+}
+
+/* Change icon color on hover */
+.service-card-K:hover .service-icon-K img {
+    filter: brightness(0) invert(1);
+}
+
+/* Serial Number Positioned Opposite to Icon */
+.serial-number-K {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 4rem;
+    font-weight: bolder;
+    color: #16B8C5;
+    transition: color 0.3s ease-in-out;
+}
+
+/* Change Serial Number color on hover */
+.service-card-K:hover .serial-number-K {
+    color: white !important;
+}
+
+/* Service Info */
+.service-info-K {
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 15px;
+    transition: color 0.3s ease-in-out;
+}
+
+/* Change text color on hover */
+.service-card-K:hover .service-info-K {
+    color: white !important;
+}
+
+/* Change Title color on hover */
+.service-title-K {
+    transition: color 0.3s ease-in-out;
+}
+
+.service-card-K:hover .service-title-K {
+    color: white !important;
+}
+
+/* Individual Service Card L */
+.service-card-L {
+    width: 350px;
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    position: relative;
+    transition: transform 0.3s ease-in-out, background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+    align-items: center;
+    margin: 10px;
+}
+
+/* Hover Effect */
+.service-card-L:hover {
+    transform: scale(1.05);
+    background-color: #6E0E0E !important;
+    color: white !important;
+}
+
+/* Service Icon */
+.service-icon-L {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    transition: filter 0.3s ease-in-out;
+}
+
+/* Align images to the left */
+.main-img-L, .hover-img-L {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 0;
+    transition: opacity 0.3s ease-in-out, filter 0.3s ease-in-out;
+}
+
+.hover-img-L {
+    opacity: 0;
+}
+
+/* Hover Effect on Icons */
+.service-card-L:hover .hover-img-L {
+    opacity: 1;
+}
+
+/* Change icon color on hover */
+.service-card-L:hover .service-icon-L img {
+    filter: brightness(0) invert(1);
+}
+
+/* Serial Number Positioned Opposite to Icon */
+.serial-number-L {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 4rem;
+    font-weight: bolder;
+    color: #6E0E0E;
+    transition: color 0.3s ease-in-out;
+}
+
+/* Change Serial Number color on hover */
+.service-card-L:hover .serial-number-L {
+    color: white !important;
+}
+
+/* Service Info */
+.service-info-L {
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 15px;
+    transition: color 0.3s ease-in-out;
+}
+
+/* Change text color on hover */
+.service-card-L:hover .service-info-L {
+    color: white !important;
+}
+
+/* Change Title color on hover */
+.service-title-L {
+    transition: color 0.3s ease-in-out;
+}
+
+.service-card-L:hover .service-title-L {
+    color: white !important;
+}
+
+/* Individual Service Card M */
+.service-card-M {
+    width: 350px;
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    position: relative;
+    transition: transform 0.3s ease-in-out, background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+    align-items: center;
+    margin: 10px;
+}
+
+/* Hover Effect */
+.service-card-M:hover {
+    transform: scale(1.05);
+    background-color: #F1892C !important;
+    color: white !important;
+}
+
+/* Service Icon */
+.service-icon-M {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    transition: filter 0.3s ease-in-out;
+}
+
+/* Align images to the left */
+.main-img-M, .hover-img-M {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 0;
+    transition: opacity 0.3s ease-in-out, filter 0.3s ease-in-out;
+}
+
+.hover-img-M {
+    opacity: 0;
+}
+
+/* Hover Effect on Icons */
+.service-card-M:hover .hover-img-M {
+    opacity: 1;
+}
+
+/* Change icon color on hover */
+.service-card-M:hover .service-icon-M img {
+    filter: brightness(0) invert(1);
+}
+
+/* Serial Number Positioned Opposite to Icon */
+.serial-number-M {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 4rem;
+    font-weight: bolder;
+    color: #F1892C;
+    transition: color 0.3s ease-in-out;
+}
+
+/* Change Serial Number color on hover */
+.service-card-M:hover .serial-number-M {
+    color: white !important;
+}
+
+/* Service Info */
+.service-info-M {
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 15px;
+    transition: color 0.3s ease-in-out;
+}
+
+/* Change text color on hover */
+.service-card-M:hover .service-info-M {
+    color: white !important;
+}
+
+/* Change Title color on hover */
+.service-title-M {
+    transition: color 0.3s ease-in-out;
+}
+
+.service-card-M:hover .service-title-M {
+    color: white !important;
+}
+
+
+/* Individual Service Card N */
+.service-card-N {
+    width: 350px;
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    position: relative;
+    transition: transform 0.3s ease-in-out, background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+    align-items: center;
+    margin: 10px;
+}
+
+/* Hover Effect */
+.service-card-N:hover {
+    transform: scale(1.05);
+    background-color: #055674 !important;
+    color: white !important;
+}
+
+/* Service Icon */
+.service-icon-N {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    transition: filter 0.3s ease-in-out;
+}
+
+/* Align images to the left */
+.main-img-N, .hover-img-N {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 0;
+    transition: opacity 0.3s ease-in-out, filter 0.3s ease-in-out;
+}
+
+.hover-img-N {
+    opacity: 0;
+}
+
+/* Hover Effect on Icons */
+.service-card-N:hover .hover-img-N {
+    opacity: 1;
+}
+
+/* Change icon color on hover */
+.service-card-N:hover .service-icon-N img {
+    filter: brightness(0) invert(1);
+}
+
+/* Serial Number Positioned Opposite to Icon */
+.serial-number-N {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 4rem;
+    font-weight: bolder;
+    color: #055674;
+    transition: color 0.3s ease-in-out;
+}
+
+/* Change Serial Number color on hover */
+.service-card-N:hover .serial-number-N {
+    color: white !important;
+}
+
+/* Service Info */
+.service-info-N {
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 15px;
+    transition: color 0.3s ease-in-out;
+}
+
+/* Change text color on hover */
+.service-card-N:hover .service-info-N {
+    color: white !important;
+}
+
+/* Change Title color on hover */
+.service-title-N {
+    transition: color 0.3s ease-in-out;
+}
+
+.service-card-N:hover .service-title-N {
+    color: white !important;
+}
+
+
+

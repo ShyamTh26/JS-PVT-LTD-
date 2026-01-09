@@ -1,0 +1,20 @@
+.header-container {
+    background-color: black;
+    padding: 10px 20px; /* Reduced padding to decrease height */
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 50px; /* Set a fixed height to reduce header size */
+}
+
+.header-container a {
+    font-size: medium;
+    font-weight: bold;
+    color: crimson;
+    text-decoration: none;
+    padding: 5px 15px;
+}
+
+.header-container a:hover {
+    color: white;
+}

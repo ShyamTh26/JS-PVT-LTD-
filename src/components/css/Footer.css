@@ -1,0 +1,166 @@
+/* Footer Background */
+.footer {
+  background-color: #2c2c2c; /* Dark Gray */
+  color: white;
+  padding: 40px 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Footer Container */
+.footer-container {
+  width: 90%;
+  max-width: 1200px;
+  margin: auto;
+}
+
+/* Footer Grid - Responsive */
+.footer-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+}
+
+/* Mobile Responsive - Stack columns */
+@media (max-width: 768px) {
+  .footer-grid {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+
+  .footer-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+/* Footer Sections */
+.footer-section {
+  text-align: left;
+}
+
+/* Titles */
+.footer-title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+/* Text */
+.footer-text {
+  font-size: 14px;
+  color: #b5b5b5;
+}
+
+/* Social Icons */
+.footer-icons {
+  margin-top: 10px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.social-icon {
+  font-size: 24px;
+  margin-right: 10px;
+  transition: transform 0.3s ease, color 0.3s ease;
+  cursor: pointer;
+}
+
+.facebook:hover { color: #1877f2; transform: scale(1.2); }
+.twitter:hover { color: #1da1f2; transform: scale(1.2); }
+.linkedin:hover { color: #0077b5; transform: scale(1.2); }
+.github:hover { color: #ffffff; transform: scale(1.2); }
+
+/* Center social icons on small screens */
+@media (max-width: 768px) {
+  .footer-icons {
+    justify-content: center;
+  }
+}
+
+/* Footer Links */
+.footer-links {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-links li {
+  font-size: 14px;
+  color: #b5b5b5;
+  margin-bottom: 10px;
+  cursor: pointer;
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.footer-links li:hover {
+  color: #ffffff;
+  transform: translateX(5px);
+}
+
+/* Center links on mobile */
+@media (max-width: 768px) {
+  .footer-links {
+    text-align: center;
+  }
+}
+
+/* Contact Icons */
+.icon {
+  margin-right: 10px;
+  font-size: 18px;
+}
+
+.red { color: red; }
+.green { color: lightgreen; }
+.yellow { color: gold; }
+
+/* Divider */
+.footer-divider {
+  border: 1px solid #444;
+  margin: 20px 0;
+}
+
+/* Bottom Footer */
+.footer-bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 14px;
+  color: #ebe6e6;
+}
+
+.footer-bottom p {
+  color: white;
+}
+
+/* Responsive Footer Bottom */
+@media (max-width: 768px) {
+  .footer-bottom {
+    flex-direction: column;
+    text-align: center;
+    gap: 10px;
+  }
+}
+
+/* Footer Policy */
+.footer-policy {
+  display: flex;
+  gap: 20px;
+}
+
+.footer-policy span {
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+.footer-policy span:hover {
+  color: white;
+}
+
+/* Center Footer Policy on Small Screens */
+@media (max-width: 768px) {
+  .footer-policy {
+    flex-direction: column;
+    gap: 5px;
+  }
+}

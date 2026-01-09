@@ -1,0 +1,73 @@
+.page.projects {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 60px 24px;
+    font-family: 'Inter', 'Segoe UI', sans-serif;
+    background-color: #f5f9fc;
+    color: #1f2937;
+  }
+  
+  .projects h1 {
+    font-size: 2.8rem;
+    color: #2563eb; /* Soft blue */
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 12px;
+  }
+  
+  .intro {
+    font-size: 1.15rem;
+    color: #4b5563;
+    margin: 0 auto 40px auto;
+    max-width: 700px;
+    text-align: center;
+  }
+  
+  
+  .projects-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 32px;
+  }
+  
+  .project-card {
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 16px;
+    padding: 24px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+    border: 1px solid rgba(229, 231, 235, 0.6);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    backdrop-filter: blur(5px);
+  }
+  
+  .project-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 12px 35px rgba(0, 0, 0, 0.08);
+    background-color: #af7ac5; /* Change background on hover */
+    color: #ffffff; /* Change text color on hover */
+  }
+  
+  .project-card h2 {
+    font-size: 1.4rem;
+    color: #111827;
+    margin-bottom: 6px;
+  }
+  
+  .project-card h4 {
+    font-size: 0.95rem;
+    color: #131313;
+    margin-bottom: 12px;
+    font-weight: bold;
+  }
+  
+  .project-card p {
+    font-size: 0.97rem;
+    color: #374151;
+    margin-bottom: 12px;
+  }
+  
+  .project-card strong {
+    color: #2563eb;
+    font-weight: 600;
+  }
+  
